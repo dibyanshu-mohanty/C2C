@@ -19,6 +19,9 @@ Being a first-time Hacker , we find it difficult figuring out ourselves with Goo
 
 With the due of time , This project can be developed into a succesfull Startup that can bring a major revolutionary change in the no. of increasing deathcases in healthcare sector due to lack of blood donors at the right time.
 
+Link To the project Website:
+https://dibyanshu-mohanty.github.io/Technica/
+
 #UI/UX
 ![Home](https://user-images.githubusercontent.com/72657275/114298287-3e5d2200-9ad3-11eb-98ab-b0e49ebbe664.png)
 ![Carousel](https://user-images.githubusercontent.com/72657275/114298289-4321d600-9ad3-11eb-8ccd-aff474b11193.png)
