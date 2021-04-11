@@ -7,13 +7,13 @@ This Project is created by : Dibyanshu Mohanty & Preetish Biswal as a part of Te
 Your on-the-go Blood bank in your pocket.
 
 #MOTIVE : 
-This is a user friendly , WebApp that enables the user to search for blooad around his own location in case of emergency blooad requirement.
+This is a user friendly , WebApp that enables the user to search for blood around his own location in case of emergency blood requirement.
 
 #TARGET  CUSTOMER BASE:
-This app can be used by the customer in need of urgent blooad requirement during Fatal accidents on highways to find a Donor of the same blood group via GoogleMap Live Tracking.
+This app can be used by the customer in need of urgent blood requirement during Fatal accidents on highways to find a Donor of the same blood group via GoogleMap Live Tracking.
 
 #WHY RAKT-SANDHI?
-Due to increasing cases of deaths due to accidents in the country, It has become a difficult for people to arrange blood via Blood Banks and this Website could help them overcome this problem
+Due to increasing cases of deaths due to accidents in the country and the efficienc of the Blood banks is only limited to well connected citiesand considering the population and topography of our country , it is practically impossible to build a in-person Blood bank everywhere, So, Rakt-Sandhicould help them overcome this problem by enabling the user to connect with the nearest Donor.
 
 Being a first-time Hacker , we find it difficult figuring out ourselves with Google Map APIs for the fully-enabled Functionality of the Project. Also the unavailability of the backend Tech-stack Handler it seemed problmatic to give proper output from our project.
 
